@@ -1,2 +1,2 @@
-console.log("oi");
-
+let fruta = "morango";
+console.log(fruta);
